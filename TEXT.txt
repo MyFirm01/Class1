@@ -1,0 +1,8 @@
+Comment: - For each dir and sub-dirs in /var others should not have write or execute permission
+Infra-Comment: - It is not recommended by vendor to change the permission of files in /var, /tmp, /usr/local as it contains socket files and executable file installed by packages
+PFA Mail for reference 
+
+
+Set banner provided by Vodafone.
+
+19.	As per Audit Doc Refer Point no:- 171 
